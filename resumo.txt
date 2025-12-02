@@ -1,0 +1,23 @@
+https://san-portugal.atlassian.net/browse/TOTPB-687
+[IT] - Execução de ordem - Compra FPR/PPR com periodica - erro
+Ready for PRO
+
+https://san-portugal.atlassian.net/browse/TOTPB-688
+[IT] - Execução de Ordem - Compra FPR com agenda e incremento - erro
+Ready for PRO
+
+https://san-portugal.atlassian.net/browse/TOTPB-696
+[IT] - Não Contratar - Produto MA Alteração de Perfil- Só anula um dos produtos e permite executar o outro
+Ready for PRO
+
+https://san-portugal.atlassian.net/browse/TOTPB-702
+[IT] - Execução de Ordem - Venda PPR - Resgate por Quantidade devolve erro 
+Ready for PRO
+
+https://san-portugal.atlassian.net/browse/TOTPB-780
+[IT] - Download Proposta - Caneta Digital - erro não encontra documento
+Ready for PRO
+
+Minsait "Respondendo à solicitação do Banco, iremos proceder à eliminação de dados nas tabelas criadas pela Minsait, de 15julho a 6nov.
+
+
